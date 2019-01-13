@@ -10,7 +10,6 @@ from tweepy import Stream
 import numpy as np 
 import pandas as pd 
 
-import lucidprogrammingtwcredentials
 '''TWITTER CLIENT'''
 class TwitterClient():
     def __init__(self,twitteruser=None):
@@ -55,13 +54,13 @@ class TwitterAuthenticator():
     def authenticatetwitterapp(self):
         #want to authenticate
 #oauthhandler is class we import from tweepy responsible for authenticating
-        auth=OAuthHandler(lucidprogrammingtwcredentials.consumer_key,
-        lucidprogrammingtwcredentials.consumer_secret)
+        auth=OAuthHandler("vFutoJoPIDaF8O3U3ifJUnrFw",
+        "Gfy8ykTjnHf7gxj0kkakRWqY9gWhDEd69aHDWewAWP2hsxCv0z")
 #in order to define auth object of the oauthhandler class it takes those
 #two arguments^^
 #to complete authentication process a method provided from oauthhandler class
-        auth.set_access_token(lucidprogrammingtwcredentials.access_token,
-        lucidprogrammingtwcredentials.access_token_secret)
+        auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
+        "RjZhI9lCoptKipRcKnPV6Uu4mIa4L0CGk9FoBXJ7GJNnB")
         return auth 
 
 
