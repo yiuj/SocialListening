@@ -20,7 +20,7 @@ while True:
     acct = input('Enter Twitter Account:')
     if (len(acct) < 1): break
     url = tw_url.augment(TWITTER_URL,
-                        {'id': 1})
+                        {'id': 2442047}) # Change location here <----------------
     print('Retrieving', url)
     connection = urllib.request.urlopen(url, context=ctx)
     data = connection.read().decode()
@@ -28,9 +28,9 @@ while True:
     js = json.loads(data)
     # print(json.dumps(js, indent=2))
     content = js[0]["trends"]
-    for item in content:
-        print("Name: {}\nURL: {}\nTweet Volume: {}\n".format(item['name'],item['url'],item['tweet_volume']))
-    # print(js[0]["trends"])
+    # for item in content:
+    #     print("Name: {}\nURL: {}\nTweet Volume: {}\n".format(item['name'],item['url'],item['tweet_volume']))
+    print(js)
 
     headers = dict(connection.getheaders())
     print('Remaining', headers['x-rate-limit-remaining'])
@@ -53,6 +53,7 @@ while True:
                 (id INTEGER PRIMARY KEY, name TEXT, url TEXT, tweet_volume INT)''')
     print("trying to insert")
     # cur.execute('''INSERT OR IGNORE INTO Trends (name) VALUES (?)''', content[0]['item'])
+    # print(content)
     for item in content:
         print(item['name'])
         cur.execute('''INSERT INTO Trends (name, url, tweet_volume) VALUES (?, ?, ?)''', (item['name'],item['url'],item['tweet_volume'],))
@@ -60,8 +61,8 @@ while True:
     cur.execute(''' SELECT * FROM Trends ''')
     conn.commit()
     results = cur.fetchall()
-    for row in results:
-        print(row)
+    # for row in results:
+        #print(row)
 
     # Opening mbox.txt
     # filename = "mbox.txt"
