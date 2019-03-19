@@ -1,0 +1,674 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.521117,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.607843,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.542491,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      },
+      {
+        "score": 0.513489,
+        "tone_id": "fear",
+        "tone_name": "Fear"
+      },
+      {
+        "score": 0.553658,
+        "tone_id": "tentative",
+        "tone_name": "Tentative"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "moms goes grocery shoppin &amp; calls my phone so i can help tha stuff out tha car .. during that walk to tha car it\u2019s like walkin out tha tunnel before a football game \ud83d\ude02\ud83d\ude02 im hyped tha whole way there knowin im trying my hardest to make this one trip !",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "#discount #deal 1156 / BA15S / P21W 4W 300lm 102 x SMD 1210 LED Gele Auto Signal Light / Steering Lamp - (12V)   https://t.co/TAijTqJ2yu",
+      "tones": []
+    },
+    {
+      "sentence_id": 2,
+      "text": "@wakeleoup O \u00e1pice do look fashion foi quando surgiu uma dessa com dois z\u00edperes, o da bermuda normal na altura do joelho mais ou menos, e um mais pro meio da canela assim que tu ficava meio car\u00e7ol\u00e3o de maloqueiro jakhayauahah caralho, que \u00e9poca",
+      "tones": []
+    },
+    {
+      "sentence_id": 3,
+      "text": "@GuyBaker @KiwiGal6 @NahBabyNah @Jali_Cat It was a credit card reader and an unloaded shot gun the shooter dropped he threw through the shooters car window.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "No shot fired by good guy.",
+      "tones": [
+        {
+          "score": 0.773741,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "Gilbert Mangones shared a post.",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "mphindi 57 \u00b7 ",
+      "tones": []
+    },
+    {
+      "sentence_id": 7,
+      "text": "QUAND TU AIDES QUELQU\u2019UN, FAIS-LE EN RENDANT GR\u00c2CE, CAR LA VIE T\u2019A MIS (E) \u00c0 LA PLACE DE CELUI (CELLE) QUI DONNE ET NON PAS \u00c0 LA PLACE DE CELUI (CELLE) QUI A BESOIN D\u2019AIDE.\ud83d\ude4f\u2764\ufe0f\ud83d\ude4f",
+      "tones": [
+        {
+          "score": 0.512921,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "Saying that idols bought their house, cars, etc using our money is kinda?? It's not like we don't get something from them, it's not charity anyway.",
+      "tones": [
+        {
+          "score": 0.808199,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "And that's how money works.",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "I wouldn't like it if I bought a car and my client says it's from their money.",
+      "tones": [
+        {
+          "score": 0.521678,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.743104,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": "Chocolate semi amargo son az\u00facar.",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "Rellenos de nuez, almendra y cacahuate\u00a1 me quedaron s\u00faper deli\u00a1\u00a1\u00a1 cuantos van a querer???  ",
+      "tones": [
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "\ud83d\udc10\ud83e\udd87\u2022\u2022don\u2019t ever try to run me over with ya car again or i\u2019ll get my glock.",
+      "tones": [
+        {
+          "score": 0.866019,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "you mean as hell sometimes for no reason when i just be chillin.",
+      "tones": [
+        {
+          "score": 0.671177,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.933436,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "but you a real one.",
+      "tones": [
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "When i was a young boy my father said \"jokes on you ya little shit you're a girl thay just likes nerf guns and you're coming to the car show with me so grab a juice box cause you're cranky when you're thirsty.\"",
+      "tones": [
+        {
+          "score": 0.615686,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "I\u2019m budgeting myself intensely because I went on an unnecessary splurge last week but I really want to buy a cute AE dress but I also need to put gas on my car... these are the decisions that haunt me.",
+      "tones": [
+        {
+          "score": 0.544545,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.610552,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "u.s.",
+      "tones": []
+    },
+    {
+      "sentence_id": 19,
+      "text": "lowkey sleeps on the fact that seokjin is the visual \ud83d\ude14\ud83d\ude14",
+      "tones": [
+        {
+          "score": 0.858506,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.882284,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "car door guy won't cut it, this is WORLD WIDE HANDSOME we're talking about here",
+      "tones": [
+        {
+          "score": 0.509257,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "@DrRichKing @LenexaPolice We had our grandchildren's car seats pre checked out by LPD before hand when they were young and going on vacation with us.",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "Thanks guy's!!!",
+      "tones": [
+        {
+          "score": 0.822785,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Not going to lie, I\u2019m so emotional attached to this account that my heart DROPPED when I read stuffed fren Sebastian was dropped out of the window.",
+      "tones": [
+        {
+          "score": 0.758543,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "Thank goodness for the happy ending \ud83d\ude05",
+      "tones": [
+        {
+          "score": 0.870427,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Check out my car on Turo!",
+      "tones": [
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "If you planning to travel in LasVegas?",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "Try this App TURO Rental Car !",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "Get First Sign up new account free $25 Credit   https://t.co/gIMacdBjyv",
+      "tones": [
+        {
+          "score": 0.727934,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "@soyreflujo @cacheticolorada @Averpues Si, y hermosa trieja con Sara.",
+      "tones": []
+    },
+    {
+      "sentence_id": 30,
+      "text": "\u00bfQuieres participar?",
+      "tones": []
+    },
+    {
+      "sentence_id": 31,
+      "text": "No comemos casi az\u00facar, sabemos de educaci\u00f3n, metodolog\u00edas pedag\u00f3gicas, investigaci\u00f3n, escribimos bonito, somos lindos talleristas, y nuestro tema favorito es lo intersubjetivo sociocultural.",
+      "tones": []
+    },
+    {
+      "sentence_id": 32,
+      "text": "\ud83e\udd29\ud83d\ude1d ",
+      "tones": []
+    },
+    {
+      "sentence_id": 33,
+      "text": "Pd: t\u00fa y yo tambi\u00e9n.",
+      "tones": []
+    },
+    {
+      "sentence_id": 34,
+      "text": "My sister and her friend were fighting today because my sister wanted to get on top of her car and her friend said \u201cno you\u2019re gonna dent it\u201d and sunee said \u201cI know I\u2019m fat, but you know what... not everyone is skinny\u201d",
+      "tones": []
+    },
+    {
+      "sentence_id": 35,
+      "text": "@SharpInquisitor His hands rested on the headrest behind him as he let his mouth open, letting out a small groan as he shifted in his lap.",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "This time he hit his head off the car roof, groaning as he pulled away to rub at his head.",
+      "tones": []
+    },
+    {
+      "sentence_id": 37,
+      "text": "\u201cShit- I forgot we were in the parking lot still..\u201d",
+      "tones": [
+        {
+          "score": 0.5263,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "My mom caught me taking her car in hs and going to a party... the whole family whooped my ass...",
+      "tones": []
+    },
+    {
+      "sentence_id": 39,
+      "text": "I went to school the next day with a black eye and my hair cut to my shoulders \ud83d\ude02 I still snuck out that the following weekend like a dumbass",
+      "tones": [
+        {
+          "score": 0.535646,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "If you planning to travel in LasVegas?",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 41,
+      "text": "Try this App TURO Rental Car !",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "Get First Sign up new account free $25 Credit   Find the perfect vehicle for your next adventure.",
+      "tones": [
+        {
+          "score": 0.858778,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.6821,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "Click to get $25 off your first trip.",
+      "tones": [
+        {
+          "score": 0.586118,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "@60DOOL Hitchcock was driving through a Swiss city suddenly pointed out and said,\"That is the most frightening sight I have ever seen.\"",
+      "tones": [
+        {
+          "score": 0.615089,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "A priest in conversation with a little boy,his hand on the kid\u2019s shoulder.",
+      "tones": []
+    },
+    {
+      "sentence_id": 46,
+      "text": "\"Run,little boy,\"cried Hitchcock, leaning out of the car.\"Run for your life!\"",
+      "tones": [
+        {
+          "score": 0.77764,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "@CarizmaMurphy Omw to work tonight I'm backing out nd looked at the white car I'm like do that say something lol got up closer and seen #slut I'm like hell naw she juss posted that shit \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "tones": [
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "But not me.",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "I can survive driving a manual car and read maps alone.",
+      "tones": [
+        {
+          "score": 0.513552,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "Tak sesat alhamdulillah.",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "I can also be a \"co-pilot\" when my boyf are driving to help him read the maps, am i right?@SyahmiMdzan",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "Guys Ik the warriors lost to the spurs with Durant back, but remember that Curry was in that car accident 5 months ago so his 9-25 shooting tonight is excused",
+      "tones": [
+        {
+          "score": 0.630635,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "It\u2019s about that time.",
+      "tones": [
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "I want to go car shopping tomorrow.",
+      "tones": [
+        {
+          "score": 0.622741,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "Time to trade in the Focus.",
+      "tones": [
+        {
+          "score": 0.689019,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Anybody absolutely love their vehicles?",
+      "tones": [
+        {
+          "score": 0.711832,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.849827,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "Looking for a sedan, 4 door, pretty good gas mileage, probably $20k and under.",
+      "tones": [
+        {
+          "score": 0.807236,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 58,
+      "text": "6:48 Enough evidence, actually always take pictures at the scene of accident and don't forget to pick the other parties contact number or car reg.most insurance company need those information for them to process your claim faster without doubts that it may be a ",
+      "tones": [
+        {
+          "score": 0.6317,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "Via @KevinKiprop",
+      "tones": []
+    },
+    {
+      "sentence_id": 60,
+      "text": "I literally parked my car next to this beautiful moose just to watch it eat lol.",
+      "tones": [
+        {
+          "score": 0.775327,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 61,
+      "text": "To give how big this moose was... from it's shoulder down is around 6'4\"! Moose here in Alaska are scary BIG!",
+      "tones": [
+        {
+          "score": 0.863836,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 62,
+      "text": "If I bought 1,000 sticks of lip balm &amp; 10,000 hair ties and scattered them at home, at the office, &amp; in my car, I would still be unable to find any of them at some point in every day.",
+      "tones": [
+        {
+          "score": 0.709034,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 63,
+      "text": "That\u2019s one mellow dog.",
+      "tones": []
+    },
+    {
+      "sentence_id": 64,
+      "text": "The only animal the phetchpup has encountered that she hasn\u2019t charged at is a gopher tortoise- not sporting enough, I guess.",
+      "tones": []
+    },
+    {
+      "sentence_id": 65,
+      "text": "No trump supporters threatening me, but one very angry man from AA who I flipped off because his entitled ass wanted to stop his car in the middle of the only lane of traffic to talk to someone.",
+      "tones": [
+        {
+          "score": 0.821297,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "Looked me dead in the eyes and decided to keep talking, that I could wait.",
+      "tones": [
+        {
+          "score": 0.58455,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.781949,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

@@ -18,23 +18,26 @@ def main():
         tweets = c.fetchall()
 
         for tweet in tweets:
-            text += str(tweet)
+            text += str(tweet[0] + "\n")
     except Error as e:
         print(str(e))
 
     print("printing text")
     print(text)
-    #
-    # tone_analysis = tone_analyzer.tone(
-    #     {'text': text},
-    #     'application/json'
-    # ).get_result()
-    #
-    # jsonFile = json.dumps(tone_analysis, indent=2)
-    # cleanJSON(jsonFile, "text.txt")
-    # # print(json.dumps(tone_analysis, indent=2))
-    #
-    #
+
+    tone_analysis = tone_analyzer.tone(
+        {'text': text},
+        'application/json'
+    ).get_result()
+
+    # jsonDict = json.dumps(tone_analysis, indent=2)
+    with open("IBM.json", "w") as outfile:
+        json.dump(tone_analysis, outfile, indent=2)
+
+    cleanJSON("text.txt")
+    # print(json.dumps(tone_analysis, indent=2))
+
+
 
 
 main()

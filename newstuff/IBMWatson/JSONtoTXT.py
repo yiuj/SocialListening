@@ -1,8 +1,8 @@
 import json as json
 # from pprint import pprint
 
-def cleanJSON(derulo, outputFile): # json derulo a.k.a name of json file inpout
-    with open(derulo) as data_file:
+def cleanJSON(outputFile): # json derulo a.k.a name of json file inpout
+    with open("IBM.json") as data_file:
         data = json.load(data_file)
 
     output = open(outputFile, "w")
@@ -18,4 +18,3 @@ def cleanJSON(derulo, outputFile): # json derulo a.k.a name of json file inpout
             output.write("\t" + n["tone_name"] + ": " + str(n["score"]) + "\n")
 
 
-cleanJSON('sample.json', "text.txt")

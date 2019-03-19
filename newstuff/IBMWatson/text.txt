@@ -1,12 +1,128 @@
 Document Tones
-	Joy: 0.902162
-	Tentative: 0.706892
+	Anger: 0.521117
+	Joy: 0.607843
+	Sadness: 0.542491
+	Fear: 0.513489
+	Tentative: 0.553658
 
 Individual Sentences with Tone Analysis
-1. Wonderful!!! 3 year old missing 3 days is found.
-	Joy: 0.86248
-	Analytical: 0.724236
-2. No sign of any abduction.
-	Tentative: 0.968123
-3. He is alert, happy to be back with his family, and asking to watch Netflix, so he seems to be out of the woods every which way.
-	Joy: 0.749104
+1. moms goes grocery shoppin &amp; calls my phone so i can help tha stuff out tha car .. during that walk to tha car it’s like walkin out tha tunnel before a football game 😂😂 im hyped tha whole way there knowin im trying my hardest to make this one trip !
+2. #discount #deal 1156 / BA15S / P21W 4W 300lm 102 x SMD 1210 LED Gele Auto Signal Light / Steering Lamp - (12V)   https://t.co/TAijTqJ2yu
+3. @wakeleoup O ápice do look fashion foi quando surgiu uma dessa com dois zíperes, o da bermuda normal na altura do joelho mais ou menos, e um mais pro meio da canela assim que tu ficava meio carçolão de maloqueiro jakhayauahah caralho, que época
+4. @GuyBaker @KiwiGal6 @NahBabyNah @Jali_Cat It was a credit card reader and an unloaded shot gun the shooter dropped he threw through the shooters car window.
+5. No shot fired by good guy.
+	Joy: 0.773741
+6. Gilbert Mangones shared a post.
+7. mphindi 57 · 
+8. QUAND TU AIDES QUELQU’UN, FAIS-LE EN RENDANT GRÂCE, CAR LA VIE T’A MIS (E) À LA PLACE DE CELUI (CELLE) QUI DONNE ET NON PAS À LA PLACE DE CELUI (CELLE) QUI A BESOIN D’AIDE.🙏❤️🙏
+	Joy: 0.512921
+9. Saying that idols bought their house, cars, etc using our money is kinda?? It's not like we don't get something from them, it's not charity anyway.
+	Tentative: 0.808199
+10. And that's how money works.
+11. I wouldn't like it if I bought a car and my client says it's from their money.
+	Sadness: 0.521678
+	Analytical: 0.743104
+12. Chocolate semi amargo son azúcar.
+13. Rellenos de nuez, almendra y cacahuate¡ me quedaron súper deli¡¡¡ cuantos van a querer???  
+	Analytical: 0.560098
+14. 🐐🦇••don’t ever try to run me over with ya car again or i’ll get my glock.
+	Tentative: 0.866019
+15. you mean as hell sometimes for no reason when i just be chillin.
+	Anger: 0.671177
+	Tentative: 0.933436
+16. but you a real one.
+	Confident: 0.849827
+17. When i was a young boy my father said "jokes on you ya little shit you're a girl thay just likes nerf guns and you're coming to the car show with me so grab a juice box cause you're cranky when you're thirsty."
+	Anger: 0.615686
+18. I’m budgeting myself intensely because I went on an unnecessary splurge last week but I really want to buy a cute AE dress but I also need to put gas on my car... these are the decisions that haunt me.
+	Sadness: 0.544545
+	Analytical: 0.610552
+19. u.s.
+20. lowkey sleeps on the fact that seokjin is the visual 😔😔
+	Sadness: 0.858506
+	Confident: 0.849827
+	Analytical: 0.882284
+21. car door guy won't cut it, this is WORLD WIDE HANDSOME we're talking about here
+	Joy: 0.509257
+22. @DrRichKing @LenexaPolice We had our grandchildren's car seats pre checked out by LPD before hand when they were young and going on vacation with us.
+23. Thanks guy's!!!
+	Joy: 0.822785
+24. Not going to lie, I’m so emotional attached to this account that my heart DROPPED when I read stuffed fren Sebastian was dropped out of the window.
+	Sadness: 0.758543
+25. Thank goodness for the happy ending 😅
+	Joy: 0.870427
+26. Check out my car on Turo!
+	Analytical: 0.944551
+27. If you planning to travel in LasVegas?
+	Analytical: 0.801827
+28. Try this App TURO Rental Car !
+	Tentative: 0.75152
+29. Get First Sign up new account free $25 Credit   https://t.co/gIMacdBjyv
+	Joy: 0.727934
+30. @soyreflujo @cacheticolorada @Averpues Si, y hermosa trieja con Sara.
+31. ¿Quieres participar?
+32. No comemos casi azúcar, sabemos de educación, metodologías pedagógicas, investigación, escribimos bonito, somos lindos talleristas, y nuestro tema favorito es lo intersubjetivo sociocultural.
+33. 🤩😝 
+34. Pd: tú y yo también.
+35. My sister and her friend were fighting today because my sister wanted to get on top of her car and her friend said “no you’re gonna dent it” and sunee said “I know I’m fat, but you know what... not everyone is skinny”
+36. @SharpInquisitor His hands rested on the headrest behind him as he let his mouth open, letting out a small groan as he shifted in his lap.
+37. This time he hit his head off the car roof, groaning as he pulled away to rub at his head.
+38. “Shit- I forgot we were in the parking lot still..”
+	Anger: 0.5263
+39. My mom caught me taking her car in hs and going to a party... the whole family whooped my ass...
+40. I went to school the next day with a black eye and my hair cut to my shoulders 😂 I still snuck out that the following weekend like a dumbass
+	Sadness: 0.535646
+41. If you planning to travel in LasVegas?
+	Analytical: 0.801827
+42. Try this App TURO Rental Car !
+	Tentative: 0.75152
+43. Get First Sign up new account free $25 Credit   Find the perfect vehicle for your next adventure.
+	Joy: 0.858778
+	Confident: 0.6821
+44. Click to get $25 off your first trip.
+	Joy: 0.586118
+45. @60DOOL Hitchcock was driving through a Swiss city suddenly pointed out and said,"That is the most frightening sight I have ever seen."
+	Fear: 0.615089
+46. A priest in conversation with a little boy,his hand on the kid’s shoulder.
+47. "Run,little boy,"cried Hitchcock, leaning out of the car."Run for your life!"
+	Sadness: 0.77764
+48. @CarizmaMurphy Omw to work tonight I'm backing out nd looked at the white car I'm like do that say something lol got up closer and seen #slut I'm like hell naw she juss posted that shit 😂😂😂
+	Tentative: 0.5538
+49. But not me.
+50. I can survive driving a manual car and read maps alone.
+	Fear: 0.513552
+51. Tak sesat alhamdulillah.
+52. I can also be a "co-pilot" when my boyf are driving to help him read the maps, am i right?@SyahmiMdzan
+53. Guys Ik the warriors lost to the spurs with Durant back, but remember that Curry was in that car accident 5 months ago so his 9-25 shooting tonight is excused
+	Sadness: 0.630635
+54. It’s about that time.
+	Tentative: 0.88939
+55. I want to go car shopping tomorrow.
+	Fear: 0.622741
+56. Time to trade in the Focus.
+	Joy: 0.689019
+	Analytical: 0.842108
+57. Anybody absolutely love their vehicles?
+	Joy: 0.711832
+	Confident: 0.849827
+	Analytical: 0.687768
+58. Looking for a sedan, 4 door, pretty good gas mileage, probably $20k and under.
+	Joy: 0.807236
+	Tentative: 0.91961
+59. 6:48 Enough evidence, actually always take pictures at the scene of accident and don't forget to pick the other parties contact number or car reg.most insurance company need those information for them to process your claim faster without doubts that it may be a 
+	Analytical: 0.6317
+60. Via @KevinKiprop
+61. I literally parked my car next to this beautiful moose just to watch it eat lol.
+	Joy: 0.775327
+	Tentative: 0.615352
+62. To give how big this moose was... from it's shoulder down is around 6'4"! Moose here in Alaska are scary BIG!
+	Fear: 0.863836
+63. If I bought 1,000 sticks of lip balm &amp; 10,000 hair ties and scattered them at home, at the office, &amp; in my car, I would still be unable to find any of them at some point in every day.
+	Sadness: 0.709034
+64. That’s one mellow dog.
+65. The only animal the phetchpup has encountered that she hasn’t charged at is a gopher tortoise- not sporting enough, I guess.
+66. No trump supporters threatening me, but one very angry man from AA who I flipped off because his entitled ass wanted to stop his car in the middle of the only lane of traffic to talk to someone.
+	Anger: 0.821297
+67. Looked me dead in the eyes and decided to keep talking, that I could wait.
+	Sadness: 0.58455
+	Analytical: 0.781949
