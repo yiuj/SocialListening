@@ -1,0 +1,12 @@
+Document Tones
+	Joy: 0.902162
+	Tentative: 0.706892
+
+Individual Sentences with Tone Analysis
+1. Wonderful!!! 3 year old missing 3 days is found.
+	Joy: 0.86248
+	Analytical: 0.724236
+2. No sign of any abduction.
+	Tentative: 0.968123
+3. He is alert, happy to be back with his family, and asking to watch Netflix, so he seems to be out of the woods every which way.
+	Joy: 0.749104

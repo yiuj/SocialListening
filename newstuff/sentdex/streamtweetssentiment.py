@@ -34,7 +34,21 @@ class listener(StreamListener):
     def on_data(self, data):
         try:
             data = json.loads(data)
+<<<<<<< HEAD
             tweet = data["extended_tweet"]["full_text"]
+=======
+
+            tweet = unidecode(data['text'])
+
+            if data['truncated']:
+                print("\n\n\n\nThis is the exteneded tweet\n\n\n\n\n")
+                tweet = unidecode(data['extended_tweet']['full_text'])
+                print(tweet)
+                print("\n\n\n\n\n\n\n\n\n\n")
+            else:
+                tweet = unidecode(data['text'])
+
+>>>>>>> 52a179c273ed59a94f8ab87a4c65124c15af06dc
             time_ms = data['timestamp_ms']
             vs = analyzer.polarity_scores(tweet)
             sentiment = vs['compound']
@@ -52,6 +66,8 @@ class listener(StreamListener):
 
     def on_error(self, status):
         print(status)
+
+while True:
 
 def main():
     try:
