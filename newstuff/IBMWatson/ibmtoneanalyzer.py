@@ -1,5 +1,6 @@
 from watson_developer_cloud import ToneAnalyzerV3
 import simplejson as json
+from JSONtoTXT import cleanJSON
 
 tone_analyzer = ToneAnalyzerV3(
     version='2017-09-21',
@@ -18,7 +19,10 @@ tone_analysis = tone_analyzer.tone(
     {'text': text},
     'application/json'
 ).get_result()
-print(json.dumps(tone_analysis, indent=2))
+
+jsonFile = json.dumps(tone_analysis, indent=2)
+cleanJSON(jsonFile, "text.txt")
+# print(json.dumps(tone_analysis, indent=2))
 
 #REMEMBER TO GO TO IAMGENERATOR TO GET A NEW ACCESS TOKEN AND REFRESH TOKEN#################
 #BUT WHAT DO I USE THE ACCESS TOKEN FOR???????

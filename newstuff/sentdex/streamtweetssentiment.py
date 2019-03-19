@@ -8,6 +8,7 @@ import sqlite3
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from unidecode import unidecode
 import time
+import re
 
 conn = sqlite3.connect('twitter.db')
 c = conn.cursor()
@@ -20,7 +21,7 @@ create_table()
 #SENTIMENT ANALYSIS ANALYZER
 analyzer = SentimentIntensityAnalyzer()
 
-#consumer key, consumer secret, access token, access secret.
+# consumer key, consumer secret, access token, access secret.
 auth = OAuthHandler("vFutoJoPIDaF8O3U3ifJUnrFw",
         "Gfy8ykTjnHf7gxj0kkakRWqY9gWhDEd69aHDWewAWP2hsxCv0z")
 auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
@@ -32,6 +33,10 @@ class listener(StreamListener):
         try:
             data = json.loads(data)
             tweet = unidecode(data['text'])
+            url = re.search("https?://t.co/\w\w\w\w\w\w\w\w\w\w", tweet)
+            if url:
+                print(url.group())
+                tweet = re.sub(url.group(), " ", tweet)
             time_ms = data['timestamp_ms']
             vs = analyzer.polarity_scores(tweet)
             sentiment = vs['compound']
@@ -44,7 +49,7 @@ class listener(StreamListener):
         return(True)
 
     def on_error(self, status):
-        print (status)
+        print(status)
 while True:
 
     try:
