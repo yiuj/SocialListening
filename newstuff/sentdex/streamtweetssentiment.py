@@ -28,10 +28,19 @@ auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
 
 class listener(StreamListener):
 
+    def __init__(self):
+        self.__endTime = time.time() + 60
+
     def on_data(self, data):
         try:
             data = json.loads(data)
-            tweet = unidecode(data['text'])
+            if data['truncated']:
+                print("\n\n\n\nThis is the exteneded tweet\n\n\n\n\n")
+                tweet = unidecode(data['extended_tweet']['full_text'])
+                print(tweet)
+                print("\n\n\n\n\n\n\n\n\n\n")
+            else:
+                tweet = unidecode(data['text'])
             time_ms = data['timestamp_ms']
             vs = analyzer.polarity_scores(tweet)
             sentiment = vs['compound']
@@ -39,17 +48,26 @@ class listener(StreamListener):
             c.execute("INSERT INTO sentiment (unix, tweet, sentiment) VALUES (?, ?, ?)",
                   (time_ms, tweet, sentiment))
             conn.commit()
+
+            if time.time() > self.__endTime:
+                return False
         except KeyError as e:
             print(str(e))
-        return(True)
+        return True
+
 
     def on_error(self, status):
-        print (status)
-while True:
+        print(status)
 
+def main():
     try:
-    	twitterStream = Stream(auth, listener())
-    	twitterStream.filter(track=["car"])
+        twitterStream = Stream(auth, listener())
+        twitterStream.filter(track=["car"])
+        time.sleep(runtime)
+        twitterStream.disconnect()
     except Exception as e:
         print(str(e))
         time.sleep(5)
+
+
+main()
