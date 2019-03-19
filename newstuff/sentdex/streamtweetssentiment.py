@@ -37,7 +37,7 @@ class listener(StreamListener):
             data = json.loads(data)
             tweet = data["extended_tweet"]["full_text"]
 
-            url = re.search("https?://t.co/\w\w\w\w\w\w\w\w\w\w", tweet)
+            url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet)
             if url:
                 tweet = re.sub(url.group(), " ", tweet)
 
@@ -63,7 +63,7 @@ class listener(StreamListener):
 def main():
     try:
         twitterStream = Stream(auth, listener())
-        twitterStream.filter(track=["car"])
+        twitterStream.filter(track=["car"], languages=["en"])
         time.sleep(runtime)
         twitterStream.disconnect()
     except Exception as e:
