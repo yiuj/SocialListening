@@ -1,128 +1,177 @@
 Document Tones
-	Anger: 0.521117
-	Joy: 0.607843
-	Sadness: 0.542491
-	Fear: 0.513489
-	Tentative: 0.553658
+	Joy: 0.532752
 
 Individual Sentences with Tone Analysis
-1. moms goes grocery shoppin &amp; calls my phone so i can help tha stuff out tha car .. during that walk to tha car it’s like walkin out tha tunnel before a football game 😂😂 im hyped tha whole way there knowin im trying my hardest to make this one trip !
-2. #discount #deal 1156 / BA15S / P21W 4W 300lm 102 x SMD 1210 LED Gele Auto Signal Light / Steering Lamp - (12V)   https://t.co/TAijTqJ2yu
-3. @wakeleoup O ápice do look fashion foi quando surgiu uma dessa com dois zíperes, o da bermuda normal na altura do joelho mais ou menos, e um mais pro meio da canela assim que tu ficava meio carçolão de maloqueiro jakhayauahah caralho, que época
-4. @GuyBaker @KiwiGal6 @NahBabyNah @Jali_Cat It was a credit card reader and an unloaded shot gun the shooter dropped he threw through the shooters car window.
-5. No shot fired by good guy.
-	Joy: 0.773741
-6. Gilbert Mangones shared a post.
-7. mphindi 57 · 
-8. QUAND TU AIDES QUELQU’UN, FAIS-LE EN RENDANT GRÂCE, CAR LA VIE T’A MIS (E) À LA PLACE DE CELUI (CELLE) QUI DONNE ET NON PAS À LA PLACE DE CELUI (CELLE) QUI A BESOIN D’AIDE.🙏❤️🙏
-	Joy: 0.512921
-9. Saying that idols bought their house, cars, etc using our money is kinda?? It's not like we don't get something from them, it's not charity anyway.
-	Tentative: 0.808199
-10. And that's how money works.
-11. I wouldn't like it if I bought a car and my client says it's from their money.
-	Sadness: 0.521678
-	Analytical: 0.743104
-12. Chocolate semi amargo son azúcar.
-13. Rellenos de nuez, almendra y cacahuate¡ me quedaron súper deli¡¡¡ cuantos van a querer???  
-	Analytical: 0.560098
-14. 🐐🦇••don’t ever try to run me over with ya car again or i’ll get my glock.
-	Tentative: 0.866019
-15. you mean as hell sometimes for no reason when i just be chillin.
-	Anger: 0.671177
-	Tentative: 0.933436
-16. but you a real one.
-	Confident: 0.849827
-17. When i was a young boy my father said "jokes on you ya little shit you're a girl thay just likes nerf guns and you're coming to the car show with me so grab a juice box cause you're cranky when you're thirsty."
-	Anger: 0.615686
-18. I’m budgeting myself intensely because I went on an unnecessary splurge last week but I really want to buy a cute AE dress but I also need to put gas on my car... these are the decisions that haunt me.
-	Sadness: 0.544545
-	Analytical: 0.610552
-19. u.s.
-20. lowkey sleeps on the fact that seokjin is the visual 😔😔
-	Sadness: 0.858506
-	Confident: 0.849827
-	Analytical: 0.882284
-21. car door guy won't cut it, this is WORLD WIDE HANDSOME we're talking about here
-	Joy: 0.509257
-22. @DrRichKing @LenexaPolice We had our grandchildren's car seats pre checked out by LPD before hand when they were young and going on vacation with us.
-23. Thanks guy's!!!
-	Joy: 0.822785
-24. Not going to lie, I’m so emotional attached to this account that my heart DROPPED when I read stuffed fren Sebastian was dropped out of the window.
-	Sadness: 0.758543
-25. Thank goodness for the happy ending 😅
-	Joy: 0.870427
-26. Check out my car on Turo!
-	Analytical: 0.944551
-27. If you planning to travel in LasVegas?
-	Analytical: 0.801827
-28. Try this App TURO Rental Car !
-	Tentative: 0.75152
-29. Get First Sign up new account free $25 Credit   https://t.co/gIMacdBjyv
-	Joy: 0.727934
-30. @soyreflujo @cacheticolorada @Averpues Si, y hermosa trieja con Sara.
-31. ¿Quieres participar?
-32. No comemos casi azúcar, sabemos de educación, metodologías pedagógicas, investigación, escribimos bonito, somos lindos talleristas, y nuestro tema favorito es lo intersubjetivo sociocultural.
-33. 🤩😝 
-34. Pd: tú y yo también.
-35. My sister and her friend were fighting today because my sister wanted to get on top of her car and her friend said “no you’re gonna dent it” and sunee said “I know I’m fat, but you know what... not everyone is skinny”
-36. @SharpInquisitor His hands rested on the headrest behind him as he let his mouth open, letting out a small groan as he shifted in his lap.
-37. This time he hit his head off the car roof, groaning as he pulled away to rub at his head.
-38. “Shit- I forgot we were in the parking lot still..”
-	Anger: 0.5263
-39. My mom caught me taking her car in hs and going to a party... the whole family whooped my ass...
-40. I went to school the next day with a black eye and my hair cut to my shoulders 😂 I still snuck out that the following weekend like a dumbass
-	Sadness: 0.535646
-41. If you planning to travel in LasVegas?
-	Analytical: 0.801827
-42. Try this App TURO Rental Car !
-	Tentative: 0.75152
-43. Get First Sign up new account free $25 Credit   Find the perfect vehicle for your next adventure.
-	Joy: 0.858778
-	Confident: 0.6821
-44. Click to get $25 off your first trip.
-	Joy: 0.586118
-45. @60DOOL Hitchcock was driving through a Swiss city suddenly pointed out and said,"That is the most frightening sight I have ever seen."
-	Fear: 0.615089
-46. A priest in conversation with a little boy,his hand on the kid’s shoulder.
-47. "Run,little boy,"cried Hitchcock, leaning out of the car."Run for your life!"
-	Sadness: 0.77764
-48. @CarizmaMurphy Omw to work tonight I'm backing out nd looked at the white car I'm like do that say something lol got up closer and seen #slut I'm like hell naw she juss posted that shit 😂😂😂
-	Tentative: 0.5538
-49. But not me.
-50. I can survive driving a manual car and read maps alone.
-	Fear: 0.513552
-51. Tak sesat alhamdulillah.
-52. I can also be a "co-pilot" when my boyf are driving to help him read the maps, am i right?@SyahmiMdzan
-53. Guys Ik the warriors lost to the spurs with Durant back, but remember that Curry was in that car accident 5 months ago so his 9-25 shooting tonight is excused
-	Sadness: 0.630635
-54. It’s about that time.
-	Tentative: 0.88939
-55. I want to go car shopping tomorrow.
-	Fear: 0.622741
-56. Time to trade in the Focus.
-	Joy: 0.689019
-	Analytical: 0.842108
-57. Anybody absolutely love their vehicles?
-	Joy: 0.711832
-	Confident: 0.849827
-	Analytical: 0.687768
-58. Looking for a sedan, 4 door, pretty good gas mileage, probably $20k and under.
-	Joy: 0.807236
-	Tentative: 0.91961
-59. 6:48 Enough evidence, actually always take pictures at the scene of accident and don't forget to pick the other parties contact number or car reg.most insurance company need those information for them to process your claim faster without doubts that it may be a 
-	Analytical: 0.6317
-60. Via @KevinKiprop
-61. I literally parked my car next to this beautiful moose just to watch it eat lol.
-	Joy: 0.775327
+1. @RileyPenny1 @realDonaldTrump No one is judging them by the color of their skin.
+2. Stop allowing the media to gaslight you into thinking this is a race issue.
+	Analytical: 0.895415
+3. @ltnldy805 @realDonaldTrump He has no need to show his tax returns, he disclosed his financials.
+	Analytical: 0.532616
+4. He has no need to share his grades, Obama didn't.
+5. He answered Mueller's written questions.🙄
+	Analytical: 0.995065
+6. Your meme needs work.
+7. @WayneJones1218 @realDonaldTrump So let me get this straight they win the national championship basketball tournament and you decide to troll the president rather than saying something positive about their win?
+	Joy: 0.68907
+	Analytical: 0.655013
+8. So when Trump wins re-election in 2020 you'll know why.
+9. @realDonaldTrump Instead of Tweeting gibberish that shows how ignorant and unbalanced you are, do yourself and the world a favor use the time to read and study Plato, Aristotle, the writings of the Founding Fathers, and our Constitution.
+	Sadness: 0.506207
+10. Show some respect for our country.
+	Tentative: 0.946222
+11. @steph93065 @realDonaldTrump He cannot defy them.
+12. They are holding up the law.
+	Confident: 0.80026
+13. To obtain asylum through the affirmative asylum process you must be physically present in the United States.
+	Confident: 0.816764
+14. You may apply for asylum status REGARDLESS OF HOW YOU ARRIVED IN THE UNITED STATES OR YOUR CURRENT IMMIGRATION STATUS.
+	Analytical: 0.844635
+	Tentative: 0.839577
+15. @realDonaldTrump Oh you two need to grow up!
+16. These judges know the laws and if Trump &amp; his base don't get their way they throw a tantrum!
+	Analytical: 0.795049
+17. You both act like F'N 2 year olds.
 	Tentative: 0.615352
-62. To give how big this moose was... from it's shoulder down is around 6'4"! Moose here in Alaska are scary BIG!
-	Fear: 0.863836
-63. If I bought 1,000 sticks of lip balm &amp; 10,000 hair ties and scattered them at home, at the office, &amp; in my car, I would still be unable to find any of them at some point in every day.
-	Sadness: 0.709034
-64. That’s one mellow dog.
-65. The only animal the phetchpup has encountered that she hasn’t charged at is a gopher tortoise- not sporting enough, I guess.
-66. No trump supporters threatening me, but one very angry man from AA who I flipped off because his entitled ass wanted to stop his car in the middle of the only lane of traffic to talk to someone.
-	Anger: 0.821297
-67. Looked me dead in the eyes and decided to keep talking, that I could wait.
-	Sadness: 0.58455
+18. @IngrahamAngle @realDonaldTrump Let’s transfer the asylum seeking migrants to San Francisco and turn them lose.
+	Sadness: 0.521129
+19. They will show up to their court dates, right?
+20. #MAGA2020
+21. @realDonaldTrump No they ruled you cannot deny people seeking asylum access to the United States well their cases are being reviewed.
+22. More judges will speed up the system.
+23. @realDonaldTrump defy them #potus It is your job to protect the American people not illegals n criminals!
+	Analytical: 0.538448
+24. Do your job n don’t let these DeepState criminals destroy our nation anymore!
+	Sadness: 0.527282
+25. @sianoresist @TeamTrump @realDonaldTrump That because people received bigger checks and paid less tax up front.
 	Analytical: 0.781949
+26. In perfect world, there are no refunds because no one overpays  
+	Joy: 0.869395
+	Analytical: 0.653099
+	Confident: 0.825035
+27. @GOP @hogangidley45 @realDonaldTrump His hotel that never opened was built in parnetship with a company backed by the IRGuards &amp; now he says something about them being terrorists?
+28. @Aurelio_Reyes @realDonaldTrump Impeachment wouldn't pass the senate.
+	Analytical: 0.801827
+29. 2020 is 2 more years of cruelty.
+30. KFC choking had me from the start but it wins hands down after deeper assessment.
+	Joy: 0.531255
+31. @funder @realDonaldTrump Celebrity Apprentice was the best show in the history of TV and I bet if tomorrow you go back to hosting it, you will win all of the awards.
+	Joy: 0.789531
+32. @realDonaldTrump Sir, you have been doing a great job and that matters the most.
+	Joy: 0.770098
+33. We look forward to a system where the opposition plays a key role in helping the govt do well, but seems to be a distinct reality.
+	Sadness: 0.608633
+34. So do what is in the best interest of the nation #Trump #AmericaFirst #IndiaWithNaMo
+	Joy: 0.590223
+35. @realDonaldTrump This is outrageous.
+	Sadness: 0.862998
+	Fear: 0.798165
+	Anger: 0.857143
+36. Enough of these judges who are overriding the President of the United States!!!
+37. The people decided what they wanted 2 years ago
+	Analytical: 0.901894
+	Confident: 0.874372
+38. @IngrahamAngle @realDonaldTrump He looks like he’s on the Vegas strip looking for hookers ...  but we all know that’s not true cause he is a decent human being !!
+	Analytical: 0.659886
+39. @mgmeisch @dcexaminer @realDonaldTrump open borders groups sue, find a compliant judge to get them an open borders ruling.
+	Analytical: 0.564476
+40. this is making a mockery of our system of laws.
+	Analytical: 0.735673
+41. The policy of waiting in mexico is sensible, reasonable and sane.
+	Analytical: 0.744572
+42. lawyers hated it - it meant legit cases would get heard and bogus ones tossed.
+43. Indian army convoy halted by students of Central #University of #Kashmir during Zuhr prayers on highway at Nowgam as part of protest against the arrest of their classfellows by Indian forces.
+	Sadness: 0.630337
+	Analytical: 0.575112
+44. @realDonaldTrump @hrw @HRC @OIC_OCI @UN_News_Centre @UNGeneva @UN_HRC @antonioguterres  
+45. @TeamTrump @realDonaldTrump If only the cost of living stayed the same, gas prices were as low, taxes were as low, healthcare and and interest rates were as low... THEN you would have something to crow about.
+	Analytical: 0.506763
+46. Unfortunately, your economy is killing us and the pay doesn’t make it up.
+	Sadness: 0.517808
+47. You suck.
+48. #Protestants #USArmy
+49. #Baptists      #USAirForce
+50. #Evangelists #USNavy
+51. #Mormons   #USMC
+52. 
+53. Does @realdonaldtrump #TaxReturns
+54. show #PROFIT from #CindyYang?
+55. #MoneyFortrumpAccess
+56. 
+57. Meanwhile,..
+	Analytical: 0.997482
+58. 
+59. #Chinese Woman's #Lawyer
+60. She had #CameraDetector
+61. 
+62. @Lawrence
+63. @Maddow.
+64. @almas17561756 @sanaejaz2 @realDonaldTrump @MajeedQarar @Stanikzaiii @NajeebNangyal @MalaliBashir @MunazaShaheed @mjdawar @HTasalla @KhanBehroz @BushraGohar @GulBukhari @TarekFatah @RehamKhan1 @rehankkhanNDS @BasitSherani @AWGoraya All wrold problem this Pakistan
+	Sadness: 0.562956
+	Confident: 0.560944
+65. #FEXIT The new Movement FB Exit!!
+	Joy: 0.657817
+66. No more censorship Started by   Expect a Higher Degree Of Freedom!!
+	Analytical: 0.703409
+67. @bkeloi 
+68. @OfficialR2V 
+69. @TeleCapitalista 
+70. @realDonaldTrump 
+71. @dbongino
+72. @jfrafferty8 @nuggeto100 @RepAdamSchiff @TheDemocrats @realDonaldTrump Exactly!
+	Confident: 0.942582
+73. The cages were used by Obama, but now all of a sudden Trump is a bad guy for using them!
+	Confident: 0.618451
+74. #DoubleStandards
+75. @IngrahamAngle @realDonaldTrump I'm so sick of this.
+	Sadness: 0.916667
+76. ANY law, will have SOME judge who will strike it down, Conservative law or liberal.
+	Analytical: 0.635197
+	Tentative: 0.904882
+77. But then we have pious pompous talking heads screaming TYRANNY.
+	Anger: 0.532037
+78. We just live in bland grits.
+	Tentative: 0.946222
+79. @realDonaldTrump Must vote all Democrats out of office while voting Commonsense President Trump into office in 2020 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
+	Joy: 0.627975
+	Confident: 0.816764
+80. @cspan @realDonaldTrump @Jim_Jordan Are you f*cking kidding me??  Jordan &amp; trump should both be jailed or worse.
+	Tentative: 0.5538
+81. I’m so sick of this shit.
+	Anger: 0.743741
+82. America is not great again, it’s disgusting
+83. @sianoresist @TeamTrump @realDonaldTrump More nonsense.
+	Sadness: 0.728916
+84. The economy doesn’t run off tax returns.
+85. The money doesn’t run off tax receipts either.
+	Analytical: 0.762356
+86. The economy runs off sales &amp; service.
+87. @laura_jones1987 @jase_1972 @glenn_wofford @RealLonestarTX @Andylov123 @Tampke @ericTheFrog @serialchiller @davidhogg111 @realDonaldTrump @NRA @PeteButtigieg How often does that happen?
+88. @RealDonaldTrump @StormIsUponUs @BeThePlan @VincentCrypt46 @ZoilaLiz1 @Xuelinnea @Shady721Brady @Jack00482816 @QmeUp2 @kbq225 @QBlueSkyQ @BPPope @BlueLightSPL @Chloesylvester1 @Church143 #WWG1WGA #QAnon #NoFreePasses 
+89. Website:   
+90. #TheGreatAwakening
+91. Be Loyal https://t.co/wOF3dS33R6
+92. @lesleyabravanel @realDonaldTrump It's not without hearing their claims,  it's while hearing them
+93. Try not to lie for 5 minutes if that's possible
+	Analytical: 0.687768
+	Tentative: 0.928936
+94. @realDonaldTrump "A 9th Circuit Judge just ruled that Mexico is too dangerous for migrants."
+	Tentative: 0.681699
+95. - @POTUS 
+96. 
+97. Super.
+98. Look on the bright side;
+	Joy: 0.804793
+	Analytical: 0.965509
+99. America is getting about as dangerous as Mexico.
+	Fear: 0.574182
+	Tentative: 0.615352
+100. Soon, Same judge may rule:
+	Analytical: 0.774376
+	Tentative: 0.95988
+101. "USA/Chicago is too dangerous for migrants".
+102. @cspan @realDonaldTrump @Jim_Jordan "I should suffer the misery of devils, were I to make a whore of my soul by swearing allegiance to one whose character is that of a sottish, stupid, stubborn, worthless, brutish man."
+	Sadness: 0.567458
+	Anger: 0.526728
+103. —Thomas Paine, The American Crisis, 1776
+104. @notdecraw @MayorBobby @phlubup @pithypacky @AKollinx @SpeakerPelosi @realDonaldTrump It's OK to be picky.
+105. Article 1, Section 7.2:  

@@ -2,139 +2,142 @@
   "document_tone": {
     "tones": [
       {
-        "score": 0.521117,
-        "tone_id": "anger",
-        "tone_name": "Anger"
-      },
-      {
-        "score": 0.607843,
+        "score": 0.532752,
         "tone_id": "joy",
         "tone_name": "Joy"
-      },
-      {
-        "score": 0.542491,
-        "tone_id": "sadness",
-        "tone_name": "Sadness"
-      },
-      {
-        "score": 0.513489,
-        "tone_id": "fear",
-        "tone_name": "Fear"
-      },
-      {
-        "score": 0.553658,
-        "tone_id": "tentative",
-        "tone_name": "Tentative"
       }
     ]
   },
   "sentences_tone": [
     {
       "sentence_id": 0,
-      "text": "moms goes grocery shoppin &amp; calls my phone so i can help tha stuff out tha car .. during that walk to tha car it\u2019s like walkin out tha tunnel before a football game \ud83d\ude02\ud83d\ude02 im hyped tha whole way there knowin im trying my hardest to make this one trip !",
+      "text": "@RileyPenny1 @realDonaldTrump No one is judging them by the color of their skin.",
       "tones": []
     },
     {
       "sentence_id": 1,
-      "text": "#discount #deal 1156 / BA15S / P21W 4W 300lm 102 x SMD 1210 LED Gele Auto Signal Light / Steering Lamp - (12V)   https://t.co/TAijTqJ2yu",
-      "tones": []
+      "text": "Stop allowing the media to gaslight you into thinking this is a race issue.",
+      "tones": [
+        {
+          "score": 0.895415,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
     },
     {
       "sentence_id": 2,
-      "text": "@wakeleoup O \u00e1pice do look fashion foi quando surgiu uma dessa com dois z\u00edperes, o da bermuda normal na altura do joelho mais ou menos, e um mais pro meio da canela assim que tu ficava meio car\u00e7ol\u00e3o de maloqueiro jakhayauahah caralho, que \u00e9poca",
-      "tones": []
+      "text": "@ltnldy805 @realDonaldTrump He has no need to show his tax returns, he disclosed his financials.",
+      "tones": [
+        {
+          "score": 0.532616,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
     },
     {
       "sentence_id": 3,
-      "text": "@GuyBaker @KiwiGal6 @NahBabyNah @Jali_Cat It was a credit card reader and an unloaded shot gun the shooter dropped he threw through the shooters car window.",
+      "text": "He has no need to share his grades, Obama didn't.",
       "tones": []
     },
     {
       "sentence_id": 4,
-      "text": "No shot fired by good guy.",
+      "text": "He answered Mueller's written questions.\ud83d\ude44",
       "tones": [
         {
-          "score": 0.773741,
-          "tone_id": "joy",
-          "tone_name": "Joy"
+          "score": 0.995065,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
         }
       ]
     },
     {
       "sentence_id": 5,
-      "text": "Gilbert Mangones shared a post.",
+      "text": "Your meme needs work.",
       "tones": []
     },
     {
       "sentence_id": 6,
-      "text": "mphindi 57 \u00b7 ",
-      "tones": []
-    },
-    {
-      "sentence_id": 7,
-      "text": "QUAND TU AIDES QUELQU\u2019UN, FAIS-LE EN RENDANT GR\u00c2CE, CAR LA VIE T\u2019A MIS (E) \u00c0 LA PLACE DE CELUI (CELLE) QUI DONNE ET NON PAS \u00c0 LA PLACE DE CELUI (CELLE) QUI A BESOIN D\u2019AIDE.\ud83d\ude4f\u2764\ufe0f\ud83d\ude4f",
+      "text": "@WayneJones1218 @realDonaldTrump So let me get this straight they win the national championship basketball tournament and you decide to troll the president rather than saying something positive about their win?",
       "tones": [
         {
-          "score": 0.512921,
+          "score": 0.68907,
           "tone_id": "joy",
           "tone_name": "Joy"
+        },
+        {
+          "score": 0.655013,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
         }
       ]
     },
     {
+      "sentence_id": 7,
+      "text": "So when Trump wins re-election in 2020 you'll know why.",
+      "tones": []
+    },
+    {
       "sentence_id": 8,
-      "text": "Saying that idols bought their house, cars, etc using our money is kinda?? It's not like we don't get something from them, it's not charity anyway.",
+      "text": "@realDonaldTrump Instead of Tweeting gibberish that shows how ignorant and unbalanced you are, do yourself and the world a favor use the time to read and study Plato, Aristotle, the writings of the Founding Fathers, and our Constitution.",
       "tones": [
         {
-          "score": 0.808199,
+          "score": 0.506207,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Show some respect for our country.",
+      "tones": [
+        {
+          "score": 0.946222,
           "tone_id": "tentative",
           "tone_name": "Tentative"
         }
       ]
     },
     {
-      "sentence_id": 9,
-      "text": "And that's how money works.",
+      "sentence_id": 10,
+      "text": "@steph93065 @realDonaldTrump He cannot defy them.",
       "tones": []
     },
     {
-      "sentence_id": 10,
-      "text": "I wouldn't like it if I bought a car and my client says it's from their money.",
+      "sentence_id": 11,
+      "text": "They are holding up the law.",
       "tones": [
         {
-          "score": 0.521678,
-          "tone_id": "sadness",
-          "tone_name": "Sadness"
-        },
-        {
-          "score": 0.743104,
-          "tone_id": "analytical",
-          "tone_name": "Analytical"
+          "score": 0.80026,
+          "tone_id": "confident",
+          "tone_name": "Confident"
         }
       ]
     },
     {
-      "sentence_id": 11,
-      "text": "Chocolate semi amargo son az\u00facar.",
-      "tones": []
-    },
-    {
       "sentence_id": 12,
-      "text": "Rellenos de nuez, almendra y cacahuate\u00a1 me quedaron s\u00faper deli\u00a1\u00a1\u00a1 cuantos van a querer???  ",
+      "text": "To obtain asylum through the affirmative asylum process you must be physically present in the United States.",
       "tones": [
         {
-          "score": 0.560098,
-          "tone_id": "analytical",
-          "tone_name": "Analytical"
+          "score": 0.816764,
+          "tone_id": "confident",
+          "tone_name": "Confident"
         }
       ]
     },
     {
       "sentence_id": 13,
-      "text": "\ud83d\udc10\ud83e\udd87\u2022\u2022don\u2019t ever try to run me over with ya car again or i\u2019ll get my glock.",
+      "text": "You may apply for asylum status REGARDLESS OF HOW YOU ARRIVED IN THE UNITED STATES OR YOUR CURRENT IMMIGRATION STATUS.",
       "tones": [
         {
-          "score": 0.866019,
+          "score": 0.844635,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.839577,
           "tone_id": "tentative",
           "tone_name": "Tentative"
         }
@@ -142,117 +145,79 @@
     },
     {
       "sentence_id": 14,
-      "text": "you mean as hell sometimes for no reason when i just be chillin.",
+      "text": "@realDonaldTrump Oh you two need to grow up!",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "These judges know the laws and if Trump &amp; his base don't get their way they throw a tantrum!",
       "tones": [
         {
-          "score": 0.671177,
-          "tone_id": "anger",
-          "tone_name": "Anger"
-        },
+          "score": 0.795049,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "You both act like F'N 2 year olds.",
+      "tones": [
         {
-          "score": 0.933436,
+          "score": 0.615352,
           "tone_id": "tentative",
           "tone_name": "Tentative"
         }
       ]
     },
     {
-      "sentence_id": 15,
-      "text": "but you a real one.",
-      "tones": [
-        {
-          "score": 0.849827,
-          "tone_id": "confident",
-          "tone_name": "Confident"
-        }
-      ]
-    },
-    {
-      "sentence_id": 16,
-      "text": "When i was a young boy my father said \"jokes on you ya little shit you're a girl thay just likes nerf guns and you're coming to the car show with me so grab a juice box cause you're cranky when you're thirsty.\"",
-      "tones": [
-        {
-          "score": 0.615686,
-          "tone_id": "anger",
-          "tone_name": "Anger"
-        }
-      ]
-    },
-    {
       "sentence_id": 17,
-      "text": "I\u2019m budgeting myself intensely because I went on an unnecessary splurge last week but I really want to buy a cute AE dress but I also need to put gas on my car... these are the decisions that haunt me.",
+      "text": "@IngrahamAngle @realDonaldTrump Let\u2019s transfer the asylum seeking migrants to San Francisco and turn them lose.",
       "tones": [
         {
-          "score": 0.544545,
+          "score": 0.521129,
           "tone_id": "sadness",
           "tone_name": "Sadness"
-        },
-        {
-          "score": 0.610552,
-          "tone_id": "analytical",
-          "tone_name": "Analytical"
         }
       ]
     },
     {
       "sentence_id": 18,
-      "text": "u.s.",
+      "text": "They will show up to their court dates, right?",
       "tones": []
     },
     {
       "sentence_id": 19,
-      "text": "lowkey sleeps on the fact that seokjin is the visual \ud83d\ude14\ud83d\ude14",
+      "text": "#MAGA2020",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "@realDonaldTrump No they ruled you cannot deny people seeking asylum access to the United States well their cases are being reviewed.",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "More judges will speed up the system.",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "@realDonaldTrump defy them #potus It is your job to protect the American people not illegals n criminals!",
       "tones": [
         {
-          "score": 0.858506,
-          "tone_id": "sadness",
-          "tone_name": "Sadness"
-        },
-        {
-          "score": 0.849827,
-          "tone_id": "confident",
-          "tone_name": "Confident"
-        },
-        {
-          "score": 0.882284,
+          "score": 0.538448,
           "tone_id": "analytical",
           "tone_name": "Analytical"
         }
       ]
     },
     {
-      "sentence_id": 20,
-      "text": "car door guy won't cut it, this is WORLD WIDE HANDSOME we're talking about here",
-      "tones": [
-        {
-          "score": 0.509257,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        }
-      ]
-    },
-    {
-      "sentence_id": 21,
-      "text": "@DrRichKing @LenexaPolice We had our grandchildren's car seats pre checked out by LPD before hand when they were young and going on vacation with us.",
-      "tones": []
-    },
-    {
-      "sentence_id": 22,
-      "text": "Thanks guy's!!!",
-      "tones": [
-        {
-          "score": 0.822785,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        }
-      ]
-    },
-    {
       "sentence_id": 23,
-      "text": "Not going to lie, I\u2019m so emotional attached to this account that my heart DROPPED when I read stuffed fren Sebastian was dropped out of the window.",
+      "text": "Do your job n don\u2019t let these DeepState criminals destroy our nation anymore!",
       "tones": [
         {
-          "score": 0.758543,
+          "score": 0.527282,
           "tone_id": "sadness",
           "tone_name": "Sadness"
         }
@@ -260,29 +225,44 @@
     },
     {
       "sentence_id": 24,
-      "text": "Thank goodness for the happy ending \ud83d\ude05",
+      "text": "@sianoresist @TeamTrump @realDonaldTrump That because people received bigger checks and paid less tax up front.",
       "tones": [
         {
-          "score": 0.870427,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        }
-      ]
-    },
-    {
-      "sentence_id": 25,
-      "text": "Check out my car on Turo!",
-      "tones": [
-        {
-          "score": 0.944551,
+          "score": 0.781949,
           "tone_id": "analytical",
           "tone_name": "Analytical"
         }
       ]
     },
     {
+      "sentence_id": 25,
+      "text": "In perfect world, there are no refunds because no one overpays  ",
+      "tones": [
+        {
+          "score": 0.869395,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
       "sentence_id": 26,
-      "text": "If you planning to travel in LasVegas?",
+      "text": "@GOP @hogangidley45 @realDonaldTrump His hotel that never opened was built in parnetship with a company backed by the IRGuards &amp; now he says something about them being terrorists?",
+      "tones": []
+    },
+    {
+      "sentence_id": 27,
+      "text": "@Aurelio_Reyes @realDonaldTrump Impeachment wouldn't pass the senate.",
       "tones": [
         {
           "score": 0.801827,
@@ -292,100 +272,146 @@
       ]
     },
     {
-      "sentence_id": 27,
-      "text": "Try this App TURO Rental Car !",
-      "tones": [
-        {
-          "score": 0.75152,
-          "tone_id": "tentative",
-          "tone_name": "Tentative"
-        }
-      ]
+      "sentence_id": 28,
+      "text": "2020 is 2 more years of cruelty.",
+      "tones": []
     },
     {
-      "sentence_id": 28,
-      "text": "Get First Sign up new account free $25 Credit   https://t.co/gIMacdBjyv",
+      "sentence_id": 29,
+      "text": "KFC choking had me from the start but it wins hands down after deeper assessment.",
       "tones": [
         {
-          "score": 0.727934,
+          "score": 0.531255,
           "tone_id": "joy",
           "tone_name": "Joy"
         }
       ]
     },
     {
-      "sentence_id": 29,
-      "text": "@soyreflujo @cacheticolorada @Averpues Si, y hermosa trieja con Sara.",
-      "tones": []
-    },
-    {
       "sentence_id": 30,
-      "text": "\u00bfQuieres participar?",
-      "tones": []
-    },
-    {
-      "sentence_id": 31,
-      "text": "No comemos casi az\u00facar, sabemos de educaci\u00f3n, metodolog\u00edas pedag\u00f3gicas, investigaci\u00f3n, escribimos bonito, somos lindos talleristas, y nuestro tema favorito es lo intersubjetivo sociocultural.",
-      "tones": []
-    },
-    {
-      "sentence_id": 32,
-      "text": "\ud83e\udd29\ud83d\ude1d ",
-      "tones": []
-    },
-    {
-      "sentence_id": 33,
-      "text": "Pd: t\u00fa y yo tambi\u00e9n.",
-      "tones": []
-    },
-    {
-      "sentence_id": 34,
-      "text": "My sister and her friend were fighting today because my sister wanted to get on top of her car and her friend said \u201cno you\u2019re gonna dent it\u201d and sunee said \u201cI know I\u2019m fat, but you know what... not everyone is skinny\u201d",
-      "tones": []
-    },
-    {
-      "sentence_id": 35,
-      "text": "@SharpInquisitor His hands rested on the headrest behind him as he let his mouth open, letting out a small groan as he shifted in his lap.",
-      "tones": []
-    },
-    {
-      "sentence_id": 36,
-      "text": "This time he hit his head off the car roof, groaning as he pulled away to rub at his head.",
-      "tones": []
-    },
-    {
-      "sentence_id": 37,
-      "text": "\u201cShit- I forgot we were in the parking lot still..\u201d",
+      "text": "@funder @realDonaldTrump Celebrity Apprentice was the best show in the history of TV and I bet if tomorrow you go back to hosting it, you will win all of the awards.",
       "tones": [
         {
-          "score": 0.5263,
-          "tone_id": "anger",
-          "tone_name": "Anger"
+          "score": 0.789531,
+          "tone_id": "joy",
+          "tone_name": "Joy"
         }
       ]
     },
     {
-      "sentence_id": 38,
-      "text": "My mom caught me taking her car in hs and going to a party... the whole family whooped my ass...",
-      "tones": []
-    },
-    {
-      "sentence_id": 39,
-      "text": "I went to school the next day with a black eye and my hair cut to my shoulders \ud83d\ude02 I still snuck out that the following weekend like a dumbass",
+      "sentence_id": 31,
+      "text": "@realDonaldTrump Sir, you have been doing a great job and that matters the most.",
       "tones": [
         {
-          "score": 0.535646,
+          "score": 0.770098,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "We look forward to a system where the opposition plays a key role in helping the govt do well, but seems to be a distinct reality.",
+      "tones": [
+        {
+          "score": 0.608633,
           "tone_id": "sadness",
           "tone_name": "Sadness"
         }
       ]
     },
     {
-      "sentence_id": 40,
-      "text": "If you planning to travel in LasVegas?",
+      "sentence_id": 33,
+      "text": "So do what is in the best interest of the nation #Trump #AmericaFirst #IndiaWithNaMo",
       "tones": [
         {
-          "score": 0.801827,
+          "score": 0.590223,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "@realDonaldTrump This is outrageous.",
+      "tones": [
+        {
+          "score": 0.862998,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.798165,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        },
+        {
+          "score": 0.857143,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "Enough of these judges who are overriding the President of the United States!!!",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "The people decided what they wanted 2 years ago",
+      "tones": [
+        {
+          "score": 0.901894,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.874372,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "@IngrahamAngle @realDonaldTrump He looks like he\u2019s on the Vegas strip looking for hookers ...  but we all know that\u2019s not true cause he is a decent human being !!",
+      "tones": [
+        {
+          "score": 0.659886,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "@mgmeisch @dcexaminer @realDonaldTrump open borders groups sue, find a compliant judge to get them an open borders ruling.",
+      "tones": [
+        {
+          "score": 0.564476,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "this is making a mockery of our system of laws.",
+      "tones": [
+        {
+          "score": 0.735673,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "The policy of waiting in mexico is sensible, reasonable and sane.",
+      "tones": [
+        {
+          "score": 0.744572,
           "tone_id": "analytical",
           "tone_name": "Analytical"
         }
@@ -393,72 +419,301 @@
     },
     {
       "sentence_id": 41,
-      "text": "Try this App TURO Rental Car !",
-      "tones": [
-        {
-          "score": 0.75152,
-          "tone_id": "tentative",
-          "tone_name": "Tentative"
-        }
-      ]
+      "text": "lawyers hated it - it meant legit cases would get heard and bogus ones tossed.",
+      "tones": []
     },
     {
       "sentence_id": 42,
-      "text": "Get First Sign up new account free $25 Credit   Find the perfect vehicle for your next adventure.",
+      "text": "Indian army convoy halted by students of Central #University of #Kashmir during Zuhr prayers on highway at Nowgam as part of protest against the arrest of their classfellows by Indian forces.",
       "tones": [
         {
-          "score": 0.858778,
-          "tone_id": "joy",
-          "tone_name": "Joy"
+          "score": 0.630337,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
         },
         {
-          "score": 0.6821,
-          "tone_id": "confident",
-          "tone_name": "Confident"
+          "score": 0.575112,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
         }
       ]
     },
     {
       "sentence_id": 43,
-      "text": "Click to get $25 off your first trip.",
-      "tones": [
-        {
-          "score": 0.586118,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        }
-      ]
+      "text": "@realDonaldTrump @hrw @HRC @OIC_OCI @UN_News_Centre @UNGeneva @UN_HRC @antonioguterres  ",
+      "tones": []
     },
     {
       "sentence_id": 44,
-      "text": "@60DOOL Hitchcock was driving through a Swiss city suddenly pointed out and said,\"That is the most frightening sight I have ever seen.\"",
+      "text": "@TeamTrump @realDonaldTrump If only the cost of living stayed the same, gas prices were as low, taxes were as low, healthcare and and interest rates were as low... THEN you would have something to crow about.",
       "tones": [
         {
-          "score": 0.615089,
-          "tone_id": "fear",
-          "tone_name": "Fear"
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
         }
       ]
     },
     {
       "sentence_id": 45,
-      "text": "A priest in conversation with a little boy,his hand on the kid\u2019s shoulder.",
-      "tones": []
-    },
-    {
-      "sentence_id": 46,
-      "text": "\"Run,little boy,\"cried Hitchcock, leaning out of the car.\"Run for your life!\"",
+      "text": "Unfortunately, your economy is killing us and the pay doesn\u2019t make it up.",
       "tones": [
         {
-          "score": 0.77764,
+          "score": 0.517808,
           "tone_id": "sadness",
           "tone_name": "Sadness"
         }
       ]
     },
     {
+      "sentence_id": 46,
+      "text": "You suck.",
+      "tones": []
+    },
+    {
       "sentence_id": 47,
-      "text": "@CarizmaMurphy Omw to work tonight I'm backing out nd looked at the white car I'm like do that say something lol got up closer and seen #slut I'm like hell naw she juss posted that shit \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "text": "#Protestants #USArmy",
+      "tones": []
+    },
+    {
+      "sentence_id": 48,
+      "text": "#Baptists      #USAirForce",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "#Evangelists #USNavy",
+      "tones": []
+    },
+    {
+      "sentence_id": 50,
+      "text": "#Mormons   #USMC",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "Does @realdonaldtrump #TaxReturns",
+      "tones": []
+    },
+    {
+      "sentence_id": 53,
+      "text": "show #PROFIT from #CindyYang?",
+      "tones": []
+    },
+    {
+      "sentence_id": 54,
+      "text": "#MoneyFortrumpAccess",
+      "tones": []
+    },
+    {
+      "sentence_id": 55,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 56,
+      "text": "Meanwhile,..",
+      "tones": [
+        {
+          "score": 0.997482,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 58,
+      "text": "#Chinese Woman's #Lawyer",
+      "tones": []
+    },
+    {
+      "sentence_id": 59,
+      "text": "She had #CameraDetector",
+      "tones": []
+    },
+    {
+      "sentence_id": 60,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "@Lawrence",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "@Maddow.",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "@almas17561756 @sanaejaz2 @realDonaldTrump @MajeedQarar @Stanikzaiii @NajeebNangyal @MalaliBashir @MunazaShaheed @mjdawar @HTasalla @KhanBehroz @BushraGohar @GulBukhari @TarekFatah @RehamKhan1 @rehankkhanNDS @BasitSherani @AWGoraya All wrold problem this Pakistan",
+      "tones": [
+        {
+          "score": 0.562956,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.560944,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "#FEXIT The new Movement FB Exit!!",
+      "tones": [
+        {
+          "score": 0.657817,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "No more censorship Started by   Expect a Higher Degree Of Freedom!!",
+      "tones": [
+        {
+          "score": 0.703409,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "@bkeloi ",
+      "tones": []
+    },
+    {
+      "sentence_id": 67,
+      "text": "@OfficialR2V ",
+      "tones": []
+    },
+    {
+      "sentence_id": 68,
+      "text": "@TeleCapitalista ",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "@realDonaldTrump ",
+      "tones": []
+    },
+    {
+      "sentence_id": 70,
+      "text": "@dbongino",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "@jfrafferty8 @nuggeto100 @RepAdamSchiff @TheDemocrats @realDonaldTrump Exactly!",
+      "tones": [
+        {
+          "score": 0.942582,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "The cages were used by Obama, but now all of a sudden Trump is a bad guy for using them!",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 73,
+      "text": "#DoubleStandards",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "@IngrahamAngle @realDonaldTrump I'm so sick of this.",
+      "tones": [
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 75,
+      "text": "ANY law, will have SOME judge who will strike it down, Conservative law or liberal.",
+      "tones": [
+        {
+          "score": 0.635197,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.904882,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 76,
+      "text": "But then we have pious pompous talking heads screaming TYRANNY.",
+      "tones": [
+        {
+          "score": 0.532037,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 77,
+      "text": "We just live in bland grits.",
+      "tones": [
+        {
+          "score": 0.946222,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "@realDonaldTrump Must vote all Democrats out of office while voting Commonsense President Trump into office in 2020 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+      "tones": [
+        {
+          "score": 0.627975,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.816764,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "@cspan @realDonaldTrump @Jim_Jordan Are you f*cking kidding me??  Jordan &amp; trump should both be jailed or worse.",
       "tones": [
         {
           "score": 0.5538,
@@ -468,141 +723,149 @@
       ]
     },
     {
-      "sentence_id": 48,
-      "text": "But not me.",
-      "tones": []
-    },
-    {
-      "sentence_id": 49,
-      "text": "I can survive driving a manual car and read maps alone.",
+      "sentence_id": 80,
+      "text": "I\u2019m so sick of this shit.",
       "tones": [
         {
-          "score": 0.513552,
-          "tone_id": "fear",
-          "tone_name": "Fear"
+          "score": 0.743741,
+          "tone_id": "anger",
+          "tone_name": "Anger"
         }
       ]
     },
     {
-      "sentence_id": 50,
-      "text": "Tak sesat alhamdulillah.",
+      "sentence_id": 81,
+      "text": "America is not great again, it\u2019s disgusting",
       "tones": []
     },
     {
-      "sentence_id": 51,
-      "text": "I can also be a \"co-pilot\" when my boyf are driving to help him read the maps, am i right?@SyahmiMdzan",
-      "tones": []
-    },
-    {
-      "sentence_id": 52,
-      "text": "Guys Ik the warriors lost to the spurs with Durant back, but remember that Curry was in that car accident 5 months ago so his 9-25 shooting tonight is excused",
+      "sentence_id": 82,
+      "text": "@sianoresist @TeamTrump @realDonaldTrump More nonsense.",
       "tones": [
         {
-          "score": 0.630635,
+          "score": 0.728916,
           "tone_id": "sadness",
           "tone_name": "Sadness"
         }
       ]
     },
     {
-      "sentence_id": 53,
-      "text": "It\u2019s about that time.",
-      "tones": [
-        {
-          "score": 0.88939,
-          "tone_id": "tentative",
-          "tone_name": "Tentative"
-        }
-      ]
+      "sentence_id": 83,
+      "text": "The economy doesn\u2019t run off tax returns.",
+      "tones": []
     },
     {
-      "sentence_id": 54,
-      "text": "I want to go car shopping tomorrow.",
+      "sentence_id": 84,
+      "text": "The money doesn\u2019t run off tax receipts either.",
       "tones": [
         {
-          "score": 0.622741,
-          "tone_id": "fear",
-          "tone_name": "Fear"
-        }
-      ]
-    },
-    {
-      "sentence_id": 55,
-      "text": "Time to trade in the Focus.",
-      "tones": [
-        {
-          "score": 0.689019,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        },
-        {
-          "score": 0.842108,
+          "score": 0.762356,
           "tone_id": "analytical",
           "tone_name": "Analytical"
         }
       ]
     },
     {
-      "sentence_id": 56,
-      "text": "Anybody absolutely love their vehicles?",
+      "sentence_id": 85,
+      "text": "The economy runs off sales &amp; service.",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "@laura_jones1987 @jase_1972 @glenn_wofford @RealLonestarTX @Andylov123 @Tampke @ericTheFrog @serialchiller @davidhogg111 @realDonaldTrump @NRA @PeteButtigieg How often does that happen?",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "@RealDonaldTrump @StormIsUponUs @BeThePlan @VincentCrypt46 @ZoilaLiz1 @Xuelinnea @Shady721Brady @Jack00482816 @QmeUp2 @kbq225 @QBlueSkyQ @BPPope @BlueLightSPL @Chloesylvester1 @Church143 #WWG1WGA #QAnon #NoFreePasses ",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "Website:   ",
+      "tones": []
+    },
+    {
+      "sentence_id": 89,
+      "text": "#TheGreatAwakening",
+      "tones": []
+    },
+    {
+      "sentence_id": 90,
+      "text": "Be Loyal https://t.co/wOF3dS33R6",
+      "tones": []
+    },
+    {
+      "sentence_id": 91,
+      "text": "@lesleyabravanel @realDonaldTrump It's not without hearing their claims,  it's while hearing them",
+      "tones": []
+    },
+    {
+      "sentence_id": 92,
+      "text": "Try not to lie for 5 minutes if that's possible",
       "tones": [
-        {
-          "score": 0.711832,
-          "tone_id": "joy",
-          "tone_name": "Joy"
-        },
-        {
-          "score": 0.849827,
-          "tone_id": "confident",
-          "tone_name": "Confident"
-        },
         {
           "score": 0.687768,
           "tone_id": "analytical",
           "tone_name": "Analytical"
-        }
-      ]
-    },
-    {
-      "sentence_id": 57,
-      "text": "Looking for a sedan, 4 door, pretty good gas mileage, probably $20k and under.",
-      "tones": [
-        {
-          "score": 0.807236,
-          "tone_id": "joy",
-          "tone_name": "Joy"
         },
         {
-          "score": 0.91961,
+          "score": 0.928936,
           "tone_id": "tentative",
           "tone_name": "Tentative"
         }
       ]
     },
     {
-      "sentence_id": 58,
-      "text": "6:48 Enough evidence, actually always take pictures at the scene of accident and don't forget to pick the other parties contact number or car reg.most insurance company need those information for them to process your claim faster without doubts that it may be a ",
+      "sentence_id": 93,
+      "text": "@realDonaldTrump \"A 9th Circuit Judge just ruled that Mexico is too dangerous for migrants.\"",
       "tones": [
         {
-          "score": 0.6317,
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "- @POTUS ",
+      "tones": []
+    },
+    {
+      "sentence_id": 95,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 96,
+      "text": "Super.",
+      "tones": []
+    },
+    {
+      "sentence_id": 97,
+      "text": "Look on the bright side;",
+      "tones": [
+        {
+          "score": 0.804793,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.965509,
           "tone_id": "analytical",
           "tone_name": "Analytical"
         }
       ]
     },
     {
-      "sentence_id": 59,
-      "text": "Via @KevinKiprop",
-      "tones": []
-    },
-    {
-      "sentence_id": 60,
-      "text": "I literally parked my car next to this beautiful moose just to watch it eat lol.",
+      "sentence_id": 98,
+      "text": "America is getting about as dangerous as Mexico.",
       "tones": [
         {
-          "score": 0.775327,
-          "tone_id": "joy",
-          "tone_name": "Joy"
+          "score": 0.574182,
+          "tone_id": "fear",
+          "tone_name": "Fear"
         },
         {
           "score": 0.615352,
@@ -612,63 +875,56 @@
       ]
     },
     {
-      "sentence_id": 61,
-      "text": "To give how big this moose was... from it's shoulder down is around 6'4\"! Moose here in Alaska are scary BIG!",
+      "sentence_id": 99,
+      "text": "Soon, Same judge may rule:",
       "tones": [
         {
-          "score": 0.863836,
-          "tone_id": "fear",
-          "tone_name": "Fear"
+          "score": 0.774376,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.95988,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
         }
       ]
     },
     {
-      "sentence_id": 62,
-      "text": "If I bought 1,000 sticks of lip balm &amp; 10,000 hair ties and scattered them at home, at the office, &amp; in my car, I would still be unable to find any of them at some point in every day.",
+      "sentence_id": 100,
+      "text": "\"USA/Chicago is too dangerous for migrants\".",
+      "tones": []
+    },
+    {
+      "sentence_id": 101,
+      "text": "@cspan @realDonaldTrump @Jim_Jordan \"I should suffer the misery of devils, were I to make a whore of my soul by swearing allegiance to one whose character is that of a sottish, stupid, stubborn, worthless, brutish man.\"",
       "tones": [
         {
-          "score": 0.709034,
+          "score": 0.567458,
           "tone_id": "sadness",
           "tone_name": "Sadness"
-        }
-      ]
-    },
-    {
-      "sentence_id": 63,
-      "text": "That\u2019s one mellow dog.",
-      "tones": []
-    },
-    {
-      "sentence_id": 64,
-      "text": "The only animal the phetchpup has encountered that she hasn\u2019t charged at is a gopher tortoise- not sporting enough, I guess.",
-      "tones": []
-    },
-    {
-      "sentence_id": 65,
-      "text": "No trump supporters threatening me, but one very angry man from AA who I flipped off because his entitled ass wanted to stop his car in the middle of the only lane of traffic to talk to someone.",
-      "tones": [
+        },
         {
-          "score": 0.821297,
+          "score": 0.526728,
           "tone_id": "anger",
           "tone_name": "Anger"
         }
       ]
     },
     {
-      "sentence_id": 66,
-      "text": "Looked me dead in the eyes and decided to keep talking, that I could wait.",
-      "tones": [
-        {
-          "score": 0.58455,
-          "tone_id": "sadness",
-          "tone_name": "Sadness"
-        },
-        {
-          "score": 0.781949,
-          "tone_id": "analytical",
-          "tone_name": "Analytical"
-        }
-      ]
+      "sentence_id": 102,
+      "text": "\u2014Thomas Paine, The American Crisis, 1776",
+      "tones": []
+    },
+    {
+      "sentence_id": 103,
+      "text": "@notdecraw @MayorBobby @phlubup @pithypacky @AKollinx @SpeakerPelosi @realDonaldTrump It's OK to be picky.",
+      "tones": []
+    },
+    {
+      "sentence_id": 104,
+      "text": "Article 1, Section 7.2:  ",
+      "tones": []
     }
   ]
 }
