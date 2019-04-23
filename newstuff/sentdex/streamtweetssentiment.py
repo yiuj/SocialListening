@@ -30,7 +30,7 @@ auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
 class listener(StreamListener):
 
     def __init__(self):
-        self.__endTime = time.time() + 60
+        self.__endTime = time.time() + 20
 
     def on_data(self, data):
         try:
@@ -63,7 +63,7 @@ class listener(StreamListener):
 def main():
     try:
         twitterStream = Stream(auth, listener())
-        twitterStream.filter(track=["car"], languages=["en"])
+        twitterStream.filter(track=["Fat Sals"], languages=["en"])
         time.sleep(runtime)
         twitterStream.disconnect()
     except Exception as e:

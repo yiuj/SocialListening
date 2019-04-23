@@ -2,29 +2,19 @@
   "document_tone": {
     "tones": [
       {
-        "score": 0.521117,
-        "tone_id": "anger",
-        "tone_name": "Anger"
-      },
-      {
-        "score": 0.607843,
+        "score": 0.603391,
         "tone_id": "joy",
         "tone_name": "Joy"
       },
       {
-        "score": 0.542491,
+        "score": 0.525616,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.555777,
         "tone_id": "sadness",
         "tone_name": "Sadness"
-      },
-      {
-        "score": 0.513489,
-        "tone_id": "fear",
-        "tone_name": "Fear"
-      },
-      {
-        "score": 0.553658,
-        "tone_id": "tentative",
-        "tone_name": "Tentative"
       }
     ]
   },
@@ -669,6 +659,351 @@
           "tone_name": "Analytical"
         }
       ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "20th March 1982 - #GTFC v Derby.",
+      "tones": []
+    },
+    {
+      "sentence_id": 68,
+      "text": "Andrew Harrison is your mascot.",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "There's no eBay so the club give away 24 signed balls to the kids.",
+      "tones": []
+    },
+    {
+      "sentence_id": 70,
+      "text": "Superb fans are still collecting for hospital radio.",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "Jim Betmead puts the spotlight on Tony Ford and Mrs Corrigan has won a three grand car.",
+      "tones": [
+        {
+          "score": 0.534739,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "UTM  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "The other day as I was walking into work a parent hit me with their car.",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "I'm fine, he wasn't looking forward as he took his foot off the break but this shit only happens to me lmao",
+      "tones": [
+        {
+          "score": 0.598919,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 75,
+      "text": "@My_MGAG I remember a joke a few years back that goes:",
+      "tones": [
+        {
+          "score": 0.653099,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 76,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "\"I wanted to buy a Mac, so i saved the money but i bought a Windows and a Car instead\"",
+      "tones": []
+    },
+    {
+      "sentence_id": 78,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 79,
+      "text": "It's literally true now.",
+      "tones": [
+        {
+          "score": 0.898327,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 80,
+      "text": "I remember I was harrassed and followed by a car with 2 men inside whistling and commanding me to come near them &amp; get inside but I didn't looked at their side not once even if I wanted to shout at them I was just too scared that I have to walk as fast as I could almost",
+      "tones": [
+        {
+          "score": 0.835779,
+          "tone_id": "fear",
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "Can't believe that Crack The Skye is 10 years old.",
+      "tones": [
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 82,
+      "text": "I remember picking it up on release day and that CD didn't leave my car stereo for months.",
+      "tones": [
+        {
+          "score": 0.515576,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "One of my all-time favourite albums from one of my all-time favourite bands @mastodonmusic",
+      "tones": [
+        {
+          "score": 0.597196,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 84,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 85,
+      "text": " ",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "@jacobwooch @AbundantHousing @ccedLA Everyone knows you can get a good deal on a used car due to the heavy restrictions we place on new car manufacturing.",
+      "tones": [
+        {
+          "score": 0.558287,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 87,
+      "text": "Enter to win a @GreenToysInc Wagon + a Car Seat Poncho from Birdy Boutique + an Easter Craft Kit from @kinrexllc over at @thereviewwire or @chattypattysplc!",
+      "tones": [
+        {
+          "score": 0.69873,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 88,
+      "text": "Check it out:   Ends 4/4/19.",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 89,
+      "text": "#toys #12DaysOfGiveaways",
+      "tones": [
+        {
+          "score": 0.690728,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 90,
+      "text": "  STANLEY FATMAX J7CS Jump Starter: 700 Peak by STANLEY Plan for a dead battery #jumpstarter #CarBattery #Deadbattary #vehicle #car #truck #van #online #shopping #onlineshopping #Product #shoppingonline #giftideas #shopaholic",
+      "tones": []
+    },
+    {
+      "sentence_id": 91,
+      "text": "@_nascarnut Well see saying top 20 means a lot.",
+      "tones": [
+        {
+          "score": 0.587463,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 92,
+      "text": "Top Twenty I would take the faster car with a top 20 driver.",
+      "tones": []
+    },
+    {
+      "sentence_id": 93,
+      "text": "The Field of +40 like we get every week... IDK.",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 94,
+      "text": "Top three with equal cars like this week it came down to a good driver plus track position.",
+      "tones": []
+    },
+    {
+      "sentence_id": 95,
+      "text": "Uber Ride Today: sis took 500 hours to scoop me in the 5 min time she was in and I get in the car and have to hold onto the door handle.",
+      "tones": []
+    },
+    {
+      "sentence_id": 96,
+      "text": "Where was this energy when you were coming to me lady?!",
+      "tones": [
+        {
+          "score": 0.65763,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 97,
+      "text": "@_TammyJ They start to squeak or make a grinding noise a lot and you\u2019ll notice you have to break harder than normal to actually bring your car to a stop",
+      "tones": [
+        {
+          "score": 0.633185,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 98,
+      "text": "Car Fan Powerful Car Inside The Big Wind Truck 24 Volt Refrigeration 12v Mini Van With Double Head\u00a0Fan   https://t.co/KmU241TZzN",
+      "tones": []
+    },
+    {
+      "sentence_id": 99,
+      "text": "Tell me how it makes sense that I got charged for \"storage\" of my car at the shop they took my car to without asking for it sitting there this weekend...",
+      "tones": [
+        {
+          "score": 0.517693,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 100,
+      "text": "But I couldn't get it any earlier than this morning because  THEY WERE FUCKING CLOSED.",
+      "tones": [
+        {
+          "score": 0.723329,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.681699,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 101,
+      "text": "@C4Ciaran @Femi_Sorry \"I have no wheels on my car\" ....",
+      "tones": []
+    },
+    {
+      "sentence_id": 102,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 103,
+      "text": "Correction: \"I have different type of wheels on my car\" ",
+      "tones": [
+        {
+          "score": 0.618451,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 104,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 105,
+      "text": "\"But I am not going anywhere ... fast\"",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 106,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 107,
+      "text": "#BrexitAnalogies",
+      "tones": []
     }
   ]
 }

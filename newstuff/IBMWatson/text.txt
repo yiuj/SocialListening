@@ -1,9 +1,7 @@
 Document Tones
-	Anger: 0.521117
-	Joy: 0.607843
-	Sadness: 0.542491
-	Fear: 0.513489
-	Tentative: 0.553658
+	Joy: 0.603391
+	Anger: 0.525616
+	Sadness: 0.555777
 
 Individual Sentences with Tone Analysis
 1. moms goes grocery shoppin &amp; calls my phone so i can help tha stuff out tha car .. during that walk to tha car it’s like walkin out tha tunnel before a football game 😂😂 im hyped tha whole way there knowin im trying my hardest to make this one trip !
@@ -126,3 +124,68 @@ Individual Sentences with Tone Analysis
 67. Looked me dead in the eyes and decided to keep talking, that I could wait.
 	Sadness: 0.58455
 	Analytical: 0.781949
+68. 20th March 1982 - #GTFC v Derby.
+69. Andrew Harrison is your mascot.
+70. There's no eBay so the club give away 24 signed balls to the kids.
+71. Superb fans are still collecting for hospital radio.
+72. Jim Betmead puts the spotlight on Tony Ford and Mrs Corrigan has won a three grand car.
+	Joy: 0.534739
+73. UTM  
+74. The other day as I was walking into work a parent hit me with their car.
+75. I'm fine, he wasn't looking forward as he took his foot off the break but this shit only happens to me lmao
+	Anger: 0.598919
+76. @My_MGAG I remember a joke a few years back that goes:
+	Analytical: 0.653099
+77. 
+78. "I wanted to buy a Mac, so i saved the money but i bought a Windows and a Car instead"
+79. 
+80. It's literally true now.
+	Confident: 0.898327
+	Analytical: 0.762356
+81. I remember I was harrassed and followed by a car with 2 men inside whistling and commanding me to come near them &amp; get inside but I didn't looked at their side not once even if I wanted to shout at them I was just too scared that I have to walk as fast as I could almost
+	Fear: 0.835779
+82. Can't believe that Crack The Skye is 10 years old.
+	Tentative: 0.822231
+83. I remember picking it up on release day and that CD didn't leave my car stereo for months.
+	Analytical: 0.515576
+84. One of my all-time favourite albums from one of my all-time favourite bands @mastodonmusic
+	Joy: 0.597196
+85. 
+86.  
+87. @jacobwooch @AbundantHousing @ccedLA Everyone knows you can get a good deal on a used car due to the heavy restrictions we place on new car manufacturing.
+	Joy: 0.558287
+	Analytical: 0.687768
+88. Enter to win a @GreenToysInc Wagon + a Car Seat Poncho from Birdy Boutique + an Easter Craft Kit from @kinrexllc over at @thereviewwire or @chattypattysplc!
+	Joy: 0.69873
+89. Check it out:   Ends 4/4/19.
+	Analytical: 0.801827
+90. #toys #12DaysOfGiveaways
+	Joy: 0.690728
+91.   STANLEY FATMAX J7CS Jump Starter: 700 Peak by STANLEY Plan for a dead battery #jumpstarter #CarBattery #Deadbattary #vehicle #car #truck #van #online #shopping #onlineshopping #Product #shoppingonline #giftideas #shopaholic
+92. @_nascarnut Well see saying top 20 means a lot.
+	Joy: 0.587463
+	Tentative: 0.5538
+93. Top Twenty I would take the faster car with a top 20 driver.
+94. The Field of +40 like we get every week... IDK.
+	Confident: 0.618451
+95. Top three with equal cars like this week it came down to a good driver plus track position.
+96. Uber Ride Today: sis took 500 hours to scoop me in the 5 min time she was in and I get in the car and have to hold onto the door handle.
+97. Where was this energy when you were coming to me lady?!
+	Joy: 0.65763
+98. @_TammyJ They start to squeak or make a grinding noise a lot and you’ll notice you have to break harder than normal to actually bring your car to a stop
+	Analytical: 0.633185
+99. Car Fan Powerful Car Inside The Big Wind Truck 24 Volt Refrigeration 12v Mini Van With Double Head Fan   https://t.co/KmU241TZzN
+100. Tell me how it makes sense that I got charged for "storage" of my car at the shop they took my car to without asking for it sitting there this weekend...
+	Anger: 0.517693
+101. But I couldn't get it any earlier than this morning because  THEY WERE FUCKING CLOSED.
+	Anger: 0.723329
+	Tentative: 0.681699
+102. @C4Ciaran @Femi_Sorry "I have no wheels on my car" ....
+103. 
+104. Correction: "I have different type of wheels on my car" 
+	Confident: 0.618451
+105. 
+106. "But I am not going anywhere ... fast"
+	Tentative: 0.91961
+107. 
+108. #BrexitAnalogies
