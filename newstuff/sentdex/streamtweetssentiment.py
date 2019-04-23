@@ -63,7 +63,11 @@ class listener(StreamListener):
 def main():
     try:
         twitterStream = Stream(auth, listener())
+<<<<<<< HEAD
         twitterStream.filter(track=["Fat Sals"], languages=["en"])
+=======
+        twitterStream.filter(track=["@realDonaldTrump"], languages=["en"])
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
         time.sleep(runtime)
         twitterStream.disconnect()
     except Exception as e:

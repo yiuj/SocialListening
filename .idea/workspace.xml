@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ad72b5-5819-4004-a451-d8338e6d36f0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/newstuff/sentdex/getReplies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newstuff/IBMWatson/IBM.json" beforeDir="false" afterPath="$PROJECT_DIR$/newstuff/IBMWatson/IBM.json" afterDir="false" />
@@ -9,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/newstuff/IBMWatson/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/newstuff/IBMWatson/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newstuff/sentdex/twitter.db" beforeDir="false" afterPath="$PROJECT_DIR$/newstuff/sentdex/twitter.db" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +22,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1065">
               <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+=======
+            <state relative-caret-position="150">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -31,10 +40,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/newstuff/sentdex/getReplies.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="79">
               <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+=======
+        <entry file="file://$PROJECT_DIR$/newstuff/sentdex/userTimeline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/ibmtoneanalyzer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -51,6 +76,18 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -77,8 +114,12 @@
         <option value="$USER_HOME$/Library/Python/2.7/lib/python/site-packages/vaderSentiment/vaderSentiment.py" />
         <option value="$PROJECT_DIR$/newstuff/IBMWatson/ibmtoneanalyzer.py" />
         <option value="$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment.py" />
+<<<<<<< HEAD
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$PROJECT_DIR$/newstuff/sentdex/getReplies.py" />
+=======
+        <option value="$PROJECT_DIR$/newstuff/sentdex/userTimeline.py" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
       </list>
     </option>
   </component>
@@ -123,7 +164,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -138,7 +183,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.getReplies">
+=======
+  <component name="RunManager" selected="Python.ibmtoneanalyzer">
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
     <configuration name="JSONtoTXT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SocialListening" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="getReplies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SocialListening" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +231,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
     <configuration name="ibmtoneanalyzer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SocialListening" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,11 +275,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="userTimeline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SocialListening" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newstuff/sentdex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newstuff/sentdex/userTimeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.getReplies" />
         <item itemvalue="Python.streamtweetssentiment" />
         <item itemvalue="Python.ibmtoneanalyzer" />
+=======
+        <item itemvalue="Python.ibmtoneanalyzer" />
+        <item itemvalue="Python.streamtweetssentiment" />
+        <item itemvalue="Python.userTimeline" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
         <item itemvalue="Python.JSONtoTXT" />
       </list>
     </recent_temporary>
@@ -260,7 +339,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37831324" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37831324" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -296,6 +379,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment 2.py" />
     <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/ToneAnalyzer/ibmtoneanalyzer.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -317,6 +401,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+=======
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/vaderSentiment/vaderSentiment.py" />
+    <entry file="file://$PROJECT_DIR$/newstuff/sentdex/streamtweetssentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newstuff/sentdex/userTimeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/ibmtoneanalyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
         </state>
       </provider>
     </entry>
@@ -334,6 +445,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/IBM.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -364,6 +476,12 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/newstuff/IBMWatson/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+>>>>>>> 839da31d6968d47f37abd87e53d944f008952c69
         </state>
       </provider>
     </entry>
