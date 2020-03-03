@@ -1,3 +1,4 @@
+# on williams branch
 from tweepy import API
 #extract tweets from cursor from your own timeline or friend's timeline
 from tweepy import Cursor
@@ -105,7 +106,7 @@ class TwitterListener(StreamListener):
         #make better for errors
         try:
             print(data)
-            #want to write to a file. will append because we want to
+            # want to write to a file. will append because we want to
             #keep write tweets to it as we stream
             with open(self.fetched_tweet_filename,'a') as tf:
                 tf.write(data)
