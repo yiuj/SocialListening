@@ -71,22 +71,22 @@ class TwitterStreamer():
         #authentication occurs in constructor
         self.twitterauthenticator=TwitterAuthenticator()
 
-    #want to be able to save tweets to txt or json
-    #pass in a filename where we want to write our tweets to
-    #hash_tag_list=filter for hashtags and keywords
+    # want to be able to save tweets to txt or json
+    # pass in a filename where we want to write our tweets to
+    # hash_tag_list=filter for hashtags and keywords
     def stream_tweets(self, fetched_tweet_filename, hash_tag_list):
 
-#create listener object
-#StdOutListener is a class that handles tweets recieved from a stream 
+        # create listener object
+        # StdOutListener is a class that handles tweets recieved from a stream
         listener=TwitterListener(fetched_tweet_filename)
-        #defining auth for the stream below. using class TwitterAuthenticator() and method authenticatetwitterapp()
+        # defining auth for the stream below. using class TwitterAuthenticator() and method authenticatetwitterapp()
         auth=self.twitterauthenticator.authenticatetwitterapp()
 
-#create a twitter stream. pass authentication token and listener objectself
-#listener prints data and errors
+        # create a twitter stream. pass authentication token and listener objectself
+        # listener prints data and errors
         stream=Stream(auth,listener)
-#filter. Want to stream tweets focused on filters and hashtags
-#filter takes a list called track list.
+        # filter. Want to stream tweets focused on filters and hashtags
+        # filter takes a list called track list.
         stream.filter(track=hash_tag_list)
 
 #object oriented lucidprogramming. create class to print tweets
