@@ -1,4 +1,4 @@
-# on williams branch
+# on williams branch second try
 from tweepy import API
 #extract tweets from cursor from your own timeline or friend's timeline
 from tweepy import Cursor
